@@ -1,0 +1,27 @@
+Request input for operator or 0 for closing
+Store input
+If input = 0
+  Close application
+Ask user for number 1
+Store number 1
+Ask user for number 2
+Store number 2
+If input = +
+  Add number 1 and number 2
+  Store as number 3
+  Output number 3
+If input = -
+  Subtract number 2 from number 1 (number 1 - number 2)
+  Store as number 3
+  Output number 3
+If input = *
+  Multiply number 1 by number 2
+  Store as number 3
+  Output number 3
+If input = /
+  Divide number 1 by number 2
+  Store as number 3
+  Output number 3
+ELSE
+  Output error
+Go back to step 2
